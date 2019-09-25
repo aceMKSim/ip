@@ -1,3 +1,19 @@
+# 참고자료
+
+## R for Data Science (by Hadley Wickam)
+
++ 웹북 <https://r4ds.had.co.nz/> (크롬에서 우클릭 -> 번역기능 사용)
++ 영문판 <https://www.amazon.com/Data-Science-Transform-Visualize-Model/dp/1491910399/ref=sr_1_3?keywords=r+for+data+science&qid=1553390913&s=gateway&sr=8-3>
++ 번역서 <http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=298756807>
+
+## RStudio 단축키 
+
++ Ctrl + Alt + I: Insert a r chunk in rmd
++ Ctrl + Shift + 1: Editor를 전체화면으로
++ Ctrl + Shift + 2: Console을 전체화면으로
++ Ctrl + Shift + C: 선택된 코드 부분을 주석으로
++ Ctrl + Shift + K: Knit the document
+
 # 9월 27일
 
 ## Purpose
